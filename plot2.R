@@ -1,4 +1,4 @@
-# Load data
+# Load data (can take a while to load)
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
 
